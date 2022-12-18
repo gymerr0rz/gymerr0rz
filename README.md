@@ -16,10 +16,9 @@
 
 <br>
 
-- I am a self-taught programmer with a strong understanding of the MERN stack and a passion for building high-quality, responsive, and scalable web applications. 
-- I have experience with front-end technologies such as React, as well as back-end technologies such as Node.js and Express.
-- I am highly motivated and always eager to learn new technologies and techniques to improve my skills
-- I have a proven track record of delivering projects on time and to specification, and am able to work independently or in a team environment.
+- I am a self-taught programmer with a strong understanding of the MERN stack and a passion for building high-quality, responsive, and scalable web applications. I have experience with front-end technologies such as React, as well as back-end technologies such as Node.js and Express.
+- I am highly motivated and always eager to learn new technologies and techniques to improve my skills. I have a proven track record of delivering projects on time and to specification, and am able to work independently or in a team environment. 
+
 
 <br><br>
 
