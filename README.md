@@ -32,7 +32,7 @@
 
 - **Languages**:
     
-    ![NODEJS](https://img.shields.io/badge/node-js-%232370ED.svg?style=for-the-badge&logo=NODEJS&logoColor=white)
+    ![NODEJS](https://img.shields.io/badge/node-js-%232370ED.svg?style=for-the-badge&logo=NODE-JS&logoColor=white)
 
 <br>   
     
