@@ -55,12 +55,11 @@
 
 <br>
 
-</p>
-
-<br>
-<br>
 
 -----
 
 <br>
+## <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2FJSED&psig=AOvVaw0PJrFLidWWiKXXoHPPTOha&ust=1671490155983000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjh-JmghPwCFQAAAAAdAAAAABAT" width ="25"><b> Education </b>
 
+	-Self-taught programmer with a strong foundation in computer science principles
+	-Continuing to learn and expand my skills through online courses and personal projects
