@@ -64,3 +64,8 @@
 
 - Self-taught programmer with a strong foundation in computer science principles
 - Continuing to learn and expand my skills through online courses and personal projects
+	
+	
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+	
+<b>Thank you for considering my profile. I am excited to learn more about potential opportunities and contribute my skills to your team.</b>
