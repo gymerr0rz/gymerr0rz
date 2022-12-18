@@ -60,7 +60,7 @@
 
 <br>
 	
-## <img src="https://media4.giphy.com/media/IhIDRwEVka6plLPC9z/giphy.gif" width ="25"><b> Education </b>
+## <img src="https://media4.giphy.com/media/IhIDRwEVka6plLPC9z/giphy.gif" width ="50px"><b> Education </b>
 
 - Self-taught programmer with a strong foundation in computer science principles
 - Continuing to learn and expand my skills through online courses and personal projects
