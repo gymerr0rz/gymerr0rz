@@ -1,34 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@gymerr0rz 
-durgeshsamariya
-/
-awesome-github-profile-readme-templates
-Public
-Code
-Issues
-Pull requests
-33
-Actions
-Projects
-Security
-Insights
-awesome-github-profile-readme-templates/templates/0xabdulkhalid.md
-@0xabdulkhalid
-0xabdulkhalid 0xabdulkhalid's & azizovrafael's README was added
-Latest commit b2e61c1 on Nov 9
- History
- 1 contributor
-157 lines (99 sloc)  5.25 KB
-
-
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm ERR0RZ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -46,11 +16,10 @@ Latest commit b2e61c1 on Nov 9
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I am a self-taught programmer with a strong understanding of the MERN stack and a passion for building high-quality, responsive, and scalable web applications. 
+- I have experience with front-end technologies such as React, as well as back-end technologies such as Node.js and Express.
+- I am highly motivated and always eager to learn new technologies and techniques to improve my skills
+- I have a proven track record of delivering projects on time and to specification, and am able to work independently or in a team environment.
 
 <br><br>
 
@@ -63,8 +32,7 @@ Latest commit b2e61c1 on Nov 9
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C](https://img.shields.io/badge/node-js-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -77,12 +45,6 @@ Latest commit b2e61c1 on Nov 9
 
 <br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -92,12 +54,6 @@ Latest commit b2e61c1 on Nov 9
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
 
 </p>
 
