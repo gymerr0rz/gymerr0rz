@@ -51,6 +51,13 @@
 
 <br>
 
+- **Learning**:
+
+    ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-0000FF?style=for-the-badge&logo=TypeScript&logoColor=white)
+
+
+<br>
 
 -----
 
