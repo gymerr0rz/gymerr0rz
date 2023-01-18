@@ -37,9 +37,9 @@
 - **Back-end Development**:
     
     ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-    ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     ![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-    ![NEXTJS](https://img.shields.io/badge/Next.js-23121011?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![NEXTJS](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 	
 <br>
 
