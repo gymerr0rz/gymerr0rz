@@ -58,9 +58,9 @@
 
 - **Learning**:
 
-    ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-0000FF?style=for-the-badge&logo=TypeScript&logoColor=white)
-    ![NEXTJS](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    ![C++](https://img.shields.io/badge/c++-32133A?style=for-the-badge&logo=cplusplus&logoColor=white)
+    ![NESTJS](https://img.shields.io/badge/Nest.js-20232A?style=for-the-badge&logo=nestdotjs&logoColor=white)
 	
 <br>
 
