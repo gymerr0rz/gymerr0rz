@@ -56,13 +56,6 @@
 
 <br>
 
-- **Learning**:
-
-    ![TypeScript](https://img.shields.io/badge/TypeScript-0000FF?style=for-the-badge&logo=TypeScript&logoColor=white)
-    ![C++](https://img.shields.io/badge/c++-32133A?style=for-the-badge&logo=cplusplus&logoColor=white)
-    ![NESTJS](https://img.shields.io/badge/Nest.js-20232A?style=for-the-badge&logo=nestjs&logoColor=white)
-	
-<br>
 
 -----
 
