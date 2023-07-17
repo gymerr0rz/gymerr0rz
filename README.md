@@ -36,7 +36,7 @@
    ![React-js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
    ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-   ![NextJS](https://img.shields.io/badge/Next-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=white)
+   ![NextJS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
    ![Tailwind](https://img.shields.io/badge/tailwindcss-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 	
 <br>   
