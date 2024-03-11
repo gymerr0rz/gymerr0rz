@@ -5,20 +5,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F70000&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-stack+Developer;"></a>
 </p>
-<br>
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- I am a self-taught programmer with a strong understanding of the MERN stack and a passion for building high-quality, responsive, and scalable web applications. I have experience with front-end technologies such as React, as well as back-end technologies such as Node.js and Express.
-- I am highly motivated and always eager to learn new technologies and techniques to improve my skills. I have a proven track record of delivering projects on time and to specification, and am able to work independently or in a team environment. 
-
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
